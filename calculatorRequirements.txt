@@ -1,0 +1,13 @@
+# Author: Arham Islam
+# File Description: Calculator Requirements
+# Date Created: July 22, 2023
+
+Objective: Create a simple calculator with the following requirements listed below.
+
+Requirements:
+    - User-friendly background that is also attractive
+    - Basic arithmetic operations such as +, -, *, and /
+    - Clear button
+    - A sum appears when a operation is done after clicking the equal sign
+
+Files: index.php, styles.css, sketch.png
